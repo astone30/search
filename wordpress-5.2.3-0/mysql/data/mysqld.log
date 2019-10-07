@@ -1,0 +1,87 @@
+2019-09-28T10:20:46.537177Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-09-28T10:20:46.537411Z 0 [System] [MY-013169] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) initializing of server in progress as process 7576
+2019-09-28T10:20:46.541957Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-09-28T10:20:46.541987Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-09-28T10:20:50.231340Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2019-09-28T10:20:51.989070Z 5 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2019-09-28T10:20:54.145801Z 0 [System] [MY-013170] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) initializing of server has completed
+2019-09-28T10:20:55.808498Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-09-28T10:20:55.808957Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 9420
+2019-09-28T10:20:55.815804Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-09-28T10:20:55.815840Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-09-28T10:20:58.590915Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-28T10:20:58.655795Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-09-28T10:20:58.781769Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-28T10:21:33.775344Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.17).
+2019-09-28T10:21:33.776921Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-09-28T10:21:34.198822Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-09-28T10:22:17.848988Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-09-28T10:22:17.849128Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 9024
+2019-09-28T10:22:17.853935Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-09-28T10:22:17.853960Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-09-28T10:22:20.366283Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-28T10:22:20.681327Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-09-28T10:22:20.929523Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-28T11:09:12.506385Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-09-28T11:09:13.204408Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-09-28T11:09:14.569927Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-09-28T11:09:14.570123Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 10664
+2019-09-28T11:09:14.625496Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-09-28T11:09:14.625530Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-09-28T11:09:18.022405Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-28T11:09:18.530727Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-09-28T11:09:18.794425Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-28T11:12:56.643787Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-09-28T11:12:56.997498Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-09-28T11:13:52.512414Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-09-28T11:13:52.512876Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 5068
+2019-09-28T11:13:52.522851Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-09-28T11:13:52.522884Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-09-28T11:13:57.612273Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-28T11:13:57.735406Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-09-28T11:13:57.847968Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-29T23:54:36.650462Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-09-29T23:54:37.319734Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-09-30T06:48:25.831590Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-09-30T06:48:25.831794Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 9344
+2019-09-30T06:48:25.854113Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-09-30T06:48:25.854156Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-09-30T06:48:28.693983Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-30T06:48:29.429336Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-09-30T06:48:29.473408Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-09-30T06:54:12.217316Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-09-30T06:54:12.572729Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-09-30T06:54:13.103938Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-09-30T06:54:13.104086Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 2532
+2019-09-30T06:54:13.109625Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-09-30T06:54:13.109659Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-09-30T06:54:16.366289Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-09-30T06:54:16.552484Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-09-30T06:54:16.589423Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-01T02:05:11.922366Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-10-01T02:05:12.415990Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-10-01T02:05:13.533826Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-01T02:05:13.534020Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 9676
+2019-10-01T02:05:13.543638Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-10-01T02:05:13.543663Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-10-01T02:05:16.354577Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-01T02:05:16.428237Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-10-01T02:05:16.647867Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-01T02:17:38.400797Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-10-01T02:17:38.556374Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-10-01T02:18:31.164528Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-01T02:18:31.164764Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 8336
+2019-10-01T02:18:31.182931Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-10-01T02:18:31.182956Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-10-01T02:18:34.131309Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-01T02:18:34.233498Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-10-01T02:18:34.423666Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-01T02:24:24.532596Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Normal shutdown.
+2019-10-01T02:24:25.303087Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-10-01T02:25:15.317532Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-01T02:25:15.319529Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 3560
+2019-10-01T02:25:15.352404Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-10-01T02:25:15.352438Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-10-01T02:25:19.271073Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-01T02:25:19.363289Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1.3-0\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-10-01T02:25:19.622026Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
